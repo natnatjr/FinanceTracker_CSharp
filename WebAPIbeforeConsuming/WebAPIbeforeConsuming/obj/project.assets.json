@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\deang\\Documents\\GitHub\\WebAPIbeforeConsuming\\WebAPIbeforeConsuming\\WebAPIbeforeConsuming.csproj",
+      "projectUniqueName": "C:\\Users\\deang\\Documents\\GitHub\\FinanceTracker_CSharp\\WebAPIbeforeConsuming\\WebAPIbeforeConsuming\\WebAPIbeforeConsuming.csproj",
       "projectName": "WebAPIbeforeConsuming",
-      "projectPath": "C:\\Users\\deang\\Documents\\GitHub\\WebAPIbeforeConsuming\\WebAPIbeforeConsuming\\WebAPIbeforeConsuming.csproj",
+      "projectPath": "C:\\Users\\deang\\Documents\\GitHub\\FinanceTracker_CSharp\\WebAPIbeforeConsuming\\WebAPIbeforeConsuming\\WebAPIbeforeConsuming.csproj",
       "packagesPath": "C:\\Users\\deang\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\deang\\Documents\\GitHub\\WebAPIbeforeConsuming\\WebAPIbeforeConsuming\\obj\\",
+      "outputPath": "C:\\Users\\deang\\Documents\\GitHub\\FinanceTracker_CSharp\\WebAPIbeforeConsuming\\WebAPIbeforeConsuming\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

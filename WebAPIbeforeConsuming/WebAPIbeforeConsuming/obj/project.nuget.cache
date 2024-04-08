@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "g9g1rKjZqrZKBmdh1hRPw0fPUaRiXRZzfdXso/Mjkx/ByvPl7TGtrG8hAcxWvEhET82jtdmTMMe4NF3NMt0UAQ==",
+  "dgSpecHash": "yop8vn4fRAJNb7iBHj18l0u5ORK93VaBaadedNg1yna/Sq7zr/vKdCES2pHtaa9Ls0nv/zDhLMqbmOYqYWBNRQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\deang\\Documents\\GitHub\\WebAPIbeforeConsuming\\WebAPIbeforeConsuming\\WebAPIbeforeConsuming.csproj",
+  "projectFilePath": "C:\\Users\\deang\\Documents\\GitHub\\FinanceTracker_CSharp\\WebAPIbeforeConsuming\\WebAPIbeforeConsuming\\WebAPIbeforeConsuming.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
