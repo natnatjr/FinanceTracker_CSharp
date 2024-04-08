@@ -1,0 +1,64 @@
+﻿@model IEnumerable<Transaction>
+
+<table>
+    <thead>
+        <tr>
+            <th>Ticket number</th>
+            <th>Name </th>
+            <th>Starting Location</th>
+            <th>Ending Location</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Id</td>
+                <td>@item.Name</td>
+                <td>@item.TypeTransaction</td>
+                <td>@item.Amount</td>
+                <td>
+                    <a asp-action="UpdateReservation" asp-route-id="@item.Id">
+                        Update
+                    </a>
+                </td>
+                <td>
+                    <form asp-action="DeleteReservation" method="post">
+                        <input type="hidden" name="reservationId" value="@item.Id" />
+                        <button type="submit">Delete</button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<br />
+
+<form method="post" asp-action="AddReservation">
+    <div>
+        <label for="ReservationId">Ticket number: </label>
+        <input name="ReservationId" />
+    </div>
+    <br />
+    <div>
+        <label for="Name">First Name: </label>
+        <input name="Name" />
+    </div>
+    <br />
+    <div>
+        <label for="TypeOfTransaction">Transaction: </label>
+        <input name="TypeOfTransaction" />
+    </div>
+    <br />
+    <div>
+        <label for="Amount">Ending at: </label>
+        <input name="Ammount" />
+        <br />
+    </div>
+    <br />
+    <div>
+        <button type="submit">Add</button>
+    </div>
+
+</form>

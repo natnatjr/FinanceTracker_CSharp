@@ -1,0 +1,269 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Sheridan\\Semester5\\.NET\\WebAPIbeforeConsuming\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E0130E8E-09DB-443F-9734-DAFD259110B9}|WebAPIbeforeConsuming\\WebAPIbeforeConsuming.csproj|d:\\sheridan\\semester5\\.net\\webapibeforeconsuming\\webapibeforeconsuming\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E0130E8E-09DB-443F-9734-DAFD259110B9}|WebAPIbeforeConsuming\\WebAPIbeforeConsuming.csproj|solutionrelative:webapibeforeconsuming\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0130E8E-09DB-443F-9734-DAFD259110B9}|WebAPIbeforeConsuming\\WebAPIbeforeConsuming.csproj|d:\\sheridan\\semester5\\.net\\webapibeforeconsuming\\webapibeforeconsuming\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E0130E8E-09DB-443F-9734-DAFD259110B9}|WebAPIbeforeConsuming\\WebAPIbeforeConsuming.csproj|solutionrelative:webapibeforeconsuming\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0130E8E-09DB-443F-9734-DAFD259110B9}|WebAPIbeforeConsuming\\WebAPIbeforeConsuming.csproj|d:\\sheridan\\semester5\\.net\\webapibeforeconsuming\\webapibeforeconsuming\\controllers\\apicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0130E8E-09DB-443F-9734-DAFD259110B9}|WebAPIbeforeConsuming\\WebAPIbeforeConsuming.csproj|solutionrelative:webapibeforeconsuming\\controllers\\apicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0130E8E-09DB-443F-9734-DAFD259110B9}|WebAPIbeforeConsuming\\WebAPIbeforeConsuming.csproj|d:\\sheridan\\semester5\\.net\\webapibeforeconsuming\\webapibeforeconsuming\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E0130E8E-09DB-443F-9734-DAFD259110B9}|WebAPIbeforeConsuming\\WebAPIbeforeConsuming.csproj|solutionrelative:webapibeforeconsuming\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0130E8E-09DB-443F-9734-DAFD259110B9}|WebAPIbeforeConsuming\\WebAPIbeforeConsuming.csproj|d:\\sheridan\\semester5\\.net\\webapibeforeconsuming\\webapibeforeconsuming\\models\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0130E8E-09DB-443F-9734-DAFD259110B9}|WebAPIbeforeConsuming\\WebAPIbeforeConsuming.csproj|solutionrelative:webapibeforeconsuming\\models\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0130E8E-09DB-443F-9734-DAFD259110B9}|WebAPIbeforeConsuming\\WebAPIbeforeConsuming.csproj|d:\\sheridan\\semester5\\.net\\webapibeforeconsuming\\webapibeforeconsuming\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0130E8E-09DB-443F-9734-DAFD259110B9}|WebAPIbeforeConsuming\\WebAPIbeforeConsuming.csproj|solutionrelative:webapibeforeconsuming\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0130E8E-09DB-443F-9734-DAFD259110B9}|WebAPIbeforeConsuming\\WebAPIbeforeConsuming.csproj|d:\\sheridan\\semester5\\.net\\webapibeforeconsuming\\webapibeforeconsuming\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0130E8E-09DB-443F-9734-DAFD259110B9}|WebAPIbeforeConsuming\\WebAPIbeforeConsuming.csproj|solutionrelative:webapibeforeconsuming\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0130E8E-09DB-443F-9734-DAFD259110B9}|WebAPIbeforeConsuming\\WebAPIbeforeConsuming.csproj|d:\\sheridan\\semester5\\.net\\webapibeforeconsuming\\webapibeforeconsuming\\models\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0130E8E-09DB-443F-9734-DAFD259110B9}|WebAPIbeforeConsuming\\WebAPIbeforeConsuming.csproj|solutionrelative:webapibeforeconsuming\\models\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0130E8E-09DB-443F-9734-DAFD259110B9}|WebAPIbeforeConsuming\\WebAPIbeforeConsuming.csproj|d:\\sheridan\\semester5\\.net\\webapibeforeconsuming\\webapibeforeconsuming\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E0130E8E-09DB-443F-9734-DAFD259110B9}|WebAPIbeforeConsuming\\WebAPIbeforeConsuming.csproj|solutionrelative:webapibeforeconsuming\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0130E8E-09DB-443F-9734-DAFD259110B9}|WebAPIbeforeConsuming\\WebAPIbeforeConsuming.csproj|d:\\sheridan\\semester5\\.net\\webapibeforeconsuming\\webapibeforeconsuming\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E0130E8E-09DB-443F-9734-DAFD259110B9}|WebAPIbeforeConsuming\\WebAPIbeforeConsuming.csproj|solutionrelative:webapibeforeconsuming\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0130E8E-09DB-443F-9734-DAFD259110B9}|WebAPIbeforeConsuming\\WebAPIbeforeConsuming.csproj|d:\\sheridan\\semester5\\.net\\webapibeforeconsuming\\webapibeforeconsuming\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0130E8E-09DB-443F-9734-DAFD259110B9}|WebAPIbeforeConsuming\\WebAPIbeforeConsuming.csproj|solutionrelative:webapibeforeconsuming\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0130E8E-09DB-443F-9734-DAFD259110B9}|WebAPIbeforeConsuming\\WebAPIbeforeConsuming.csproj|d:\\sheridan\\semester5\\.net\\webapibeforeconsuming\\webapibeforeconsuming\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E0130E8E-09DB-443F-9734-DAFD259110B9}|WebAPIbeforeConsuming\\WebAPIbeforeConsuming.csproj|solutionrelative:webapibeforeconsuming\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0130E8E-09DB-443F-9734-DAFD259110B9}|WebAPIbeforeConsuming\\WebAPIbeforeConsuming.csproj|d:\\sheridan\\semester5\\.net\\webapibeforeconsuming\\webapibeforeconsuming\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E0130E8E-09DB-443F-9734-DAFD259110B9}|WebAPIbeforeConsuming\\WebAPIbeforeConsuming.csproj|solutionrelative:webapibeforeconsuming\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 26,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Sheridan\\Semester5\\.NET\\WebAPIbeforeConsuming\\WebAPIbeforeConsuming\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebAPIbeforeConsuming\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Sheridan\\Semester5\\.NET\\WebAPIbeforeConsuming\\WebAPIbeforeConsuming\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebAPIbeforeConsuming\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-08T00:41:13.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\Sheridan\\Semester5\\.NET\\WebAPIbeforeConsuming\\WebAPIbeforeConsuming\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "WebAPIbeforeConsuming\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\Sheridan\\Semester5\\.NET\\WebAPIbeforeConsuming\\WebAPIbeforeConsuming\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "WebAPIbeforeConsuming\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-08T00:41:06.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\Sheridan\\Semester5\\.NET\\WebAPIbeforeConsuming\\WebAPIbeforeConsuming\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "WebAPIbeforeConsuming\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\Sheridan\\Semester5\\.NET\\WebAPIbeforeConsuming\\WebAPIbeforeConsuming\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "WebAPIbeforeConsuming\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-07T06:37:12.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\Sheridan\\Semester5\\.NET\\WebAPIbeforeConsuming\\WebAPIbeforeConsuming\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "WebAPIbeforeConsuming\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\Sheridan\\Semester5\\.NET\\WebAPIbeforeConsuming\\WebAPIbeforeConsuming\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "WebAPIbeforeConsuming\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-07T06:37:11.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Sheridan\\Semester5\\.NET\\WebAPIbeforeConsuming\\WebAPIbeforeConsuming\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "WebAPIbeforeConsuming\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Sheridan\\Semester5\\.NET\\WebAPIbeforeConsuming\\WebAPIbeforeConsuming\\Properties\\launchSettings.json",
+              "RelativeToolTip": "WebAPIbeforeConsuming\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-06T07:44:45.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Sheridan\\Semester5\\.NET\\WebAPIbeforeConsuming\\WebAPIbeforeConsuming\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "WebAPIbeforeConsuming\\appsettings.Development.json",
+              "ToolTip": "D:\\Sheridan\\Semester5\\.NET\\WebAPIbeforeConsuming\\WebAPIbeforeConsuming\\appsettings.Development.json",
+              "RelativeToolTip": "WebAPIbeforeConsuming\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-06T07:44:40.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Sheridan\\Semester5\\.NET\\WebAPIbeforeConsuming\\WebAPIbeforeConsuming\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebAPIbeforeConsuming\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Sheridan\\Semester5\\.NET\\WebAPIbeforeConsuming\\WebAPIbeforeConsuming\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebAPIbeforeConsuming\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAA3wCcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T06:41:04.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Sheridan\\Semester5\\.NET\\WebAPIbeforeConsuming\\WebAPIbeforeConsuming\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebAPIbeforeConsuming\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Sheridan\\Semester5\\.NET\\WebAPIbeforeConsuming\\WebAPIbeforeConsuming\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebAPIbeforeConsuming\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAADcAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-06T06:44:25.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "APIController.cs",
+              "DocumentMoniker": "D:\\Sheridan\\Semester5\\.NET\\WebAPIbeforeConsuming\\WebAPIbeforeConsuming\\Controllers\\APIController.cs",
+              "RelativeDocumentMoniker": "WebAPIbeforeConsuming\\Controllers\\APIController.cs",
+              "ToolTip": "D:\\Sheridan\\Semester5\\.NET\\WebAPIbeforeConsuming\\WebAPIbeforeConsuming\\Controllers\\APIController.cs",
+              "RelativeToolTip": "WebAPIbeforeConsuming\\Controllers\\APIController.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAADgvx4AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T06:41:31.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Sheridan\\Semester5\\.NET\\WebAPIbeforeConsuming\\WebAPIbeforeConsuming\\Program.cs",
+              "RelativeDocumentMoniker": "WebAPIbeforeConsuming\\Program.cs",
+              "ToolTip": "D:\\Sheridan\\Semester5\\.NET\\WebAPIbeforeConsuming\\WebAPIbeforeConsuming\\Program.cs",
+              "RelativeToolTip": "WebAPIbeforeConsuming\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T06:38:53.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "D:\\Sheridan\\Semester5\\.NET\\WebAPIbeforeConsuming\\WebAPIbeforeConsuming\\Models\\Repository.cs",
+              "RelativeDocumentMoniker": "WebAPIbeforeConsuming\\Models\\Repository.cs",
+              "ToolTip": "D:\\Sheridan\\Semester5\\.NET\\WebAPIbeforeConsuming\\WebAPIbeforeConsuming\\Models\\Repository.cs",
+              "RelativeToolTip": "WebAPIbeforeConsuming\\Models\\Repository.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAgwAwAAABeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T06:32:40.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "D:\\Sheridan\\Semester5\\.NET\\WebAPIbeforeConsuming\\WebAPIbeforeConsuming\\Models\\IRepository.cs",
+              "RelativeDocumentMoniker": "WebAPIbeforeConsuming\\Models\\IRepository.cs",
+              "ToolTip": "D:\\Sheridan\\Semester5\\.NET\\WebAPIbeforeConsuming\\WebAPIbeforeConsuming\\Models\\IRepository.cs",
+              "RelativeToolTip": "WebAPIbeforeConsuming\\Models\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T06:26:56.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "D:\\Sheridan\\Semester5\\.NET\\WebAPIbeforeConsuming\\WebAPIbeforeConsuming\\Models\\Transaction.cs",
+              "RelativeDocumentMoniker": "WebAPIbeforeConsuming\\Models\\Transaction.cs",
+              "ToolTip": "D:\\Sheridan\\Semester5\\.NET\\WebAPIbeforeConsuming\\WebAPIbeforeConsuming\\Models\\Transaction.cs",
+              "RelativeToolTip": "WebAPIbeforeConsuming\\Models\\Transaction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T06:26:11.48Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 26,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 26,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
